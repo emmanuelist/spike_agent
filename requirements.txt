@@ -1,0 +1,6 @@
+google-adk
+google-cloud-firestore
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
