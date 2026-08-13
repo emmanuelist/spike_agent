@@ -4,3 +4,5 @@ fastapi
 uvicorn[standard]
 sqlalchemy
 aiosqlite
+opentelemetry-exporter-gcp-trace
+google-cloud-storage
